@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17/11/2026
+## NAME: DHAIRYA SAHU
+## ROLL NUMBER:RA2511030010379
+## DEPARTMENT:NWC(CYBERSECURITY)
 
 ---
 
@@ -104,6 +104,7 @@ HLT
 | BL | 03H |
 
 **Result:** 05H + 03H = 08H.
+<img width="1912" height="875" alt="image" src="https://github.com/user-attachments/assets/b549d95d-7af0-469f-b0e0-2e5c88f1621d" />
 
 ## EXPERIMENT 2: SUBTRACTION
 
@@ -134,6 +135,7 @@ HLT
 | BL | 04H |
 
 **Result:** 09H - 04H = 05H.
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/bda737cd-7bc1-4f96-87c0-f1ad24634e1f" />
 
 ## EXPERIMENT 3: MULTIPLICATION
 
@@ -165,6 +167,7 @@ HLT
 | AX | 0014H |
 
 **Result:** 05H × 04H = 14H.
+<img width="1912" height="883" alt="image" src="https://github.com/user-attachments/assets/da54cd63-62e7-4e75-82d4-1cef308d73df" />
 
 ## EXPERIMENT 4: DIVISION
 
@@ -196,6 +199,7 @@ HLT
 | AH | 00H |
 
 **Result:** 14H ÷ 04H = 05H, Remainder = 00H.
+<img width="1920" height="857" alt="image" src="https://github.com/user-attachments/assets/69778da9-6bdd-474e-955c-06dc92c0f1b0" />
 
 ## OUTPUT OF SIMULATION:
 
